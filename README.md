@@ -8,6 +8,6 @@
 
 ### Listed IPAs
 
-| ID | Region | Name | Link | Note |
-| --- | --- | --- | --- | --- |
-| id1444980563 | TH | Lineage W | https://onedrive.live.com/?cid=1ae8590b2915f1f1&id=1AE8590B2915F1F1%21524030&authkey=!AD5-Cq9ju0VVbt0 | This Global version can use in other region. Eg: KR, PH, SG... |
+| ID | Region | Name | Version | Link | Note |
+| --- | --- | --- | --- | --- | --- |
+| id1444980563 | TH | Lineage W | 1.0.208 | https://1drv.ms/u/s!AvHxFSkLWegan_1-Pn4Kr2O7RVVu3Q?e=TXhEeA | This Global version can use in other region. Eg: KR, PH, SG... |
