@@ -15,3 +15,4 @@
 | id1537779048 | KR | 블레이드&소울2 - Blade & Soul 2 | 0.60.3 | https://1drv.ms/u/s!AvHxFSkLWegaoIBGQQ31yMWpV1NgAg?e=3xYwdu |  |
 | id1581562784 | KR | 트라하 인피니티 - TRAHA INFINITY | 1.0.10 | https://1drv.ms/u/s!AvHxFSkLWegan_4CZNpdio2I-bLQzw?e=5gefng | This version is also available on macOS M1 |
 | id1523459287 | KR | 뮤오리진3 - MU Origin 3 | 1.0.2 | https://1drv.ms/u/s!AvHxFSkLWegaoIBHr4RGr8MzworAWQ?e=FJAKQe |  |
+| id1477030970 | VN | Call of Duty: Mobile VN | 1.8.30 | https://1drv.ms/u/s!AvHxFSkLWegaoIBPgDjszKxNoIvN_A?e=gOo6OX | VNG version |
