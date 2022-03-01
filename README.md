@@ -20,3 +20,5 @@
 | id1210763463 | VN | NhacCuaTui - Find MP3 Music | 6.3.8 | https://1drv.ms/u/s!AvHxFSkLWegaoIBRoALhxnbXnKw7uQ?e=UQAqvv | |
 | id1299582178 | VN | Honkai Impact 3 | 5.5.0 | https://1drv.ms/u/s!AvHxFSkLWegaoIBSBaaroafm3WIxXw?e=iwwQNP | |
 | id1313126006 | VN | Girls' Frontline | 2.0800 | https://1drv.ms/u/s!AvHxFSkLWegaoIBTIhnF9TpZm7sd9A?e=UdRAAO | This version is also available on App Store macOS M1 |
+| id544007664 | N/A | Youtube | 17.08.2 | https://1drv.ms/u/s!AvHxFSkLWegaoIBeJn7QF0HdKXsS1g?e=CFBajw |  |
+| id959841449 | VN | Shopee | 2.84.10 | https://1drv.ms/u/s!AvHxFSkLWegaoIBdRp7X9-QfNSzWFQ?e=nK6icr | Vietnam version |
