@@ -10,7 +10,7 @@
 
 | ID | Region | Name | Version | Link | Note |
 | --- | --- | --- | --- | --- | --- |
-| id1444980563 | TH | Lineage W | 1.1.09 | https://1drv.ms/u/s!AvHxFSkLWegaoIBNh18YMfrF2XtcUQ?e=AubT0t | This Global version can use in other region. Eg: KR, PH, SG... |
+| id1444980563 | KR | Lineage W | 1.1.18 | https://1drv.ms/u/s!AvHxFSkLWegaoIBfcvmdfLil7xYn2A?e=eUCNGj | This Global version can use in other region. Eg: TW, TH, PH, SG... |
 | id1530334163 | KR | 언디셈버 - Undecember | 1.02.03 | https://1drv.ms/u/s!AvHxFSkLWegaoIBIfLQekFU_6ug-Jw?e=UlOHPn | ENG/RU lang -> https://undecember.ml |
 | id1537779048 | KR | 블레이드&소울2 - Blade & Soul 2 | 0.60.3 | https://1drv.ms/u/s!AvHxFSkLWegaoIBGQQ31yMWpV1NgAg?e=3xYwdu |  |
 | id1581562784 | KR | 트라하 인피니티 - TRAHA INFINITY | 1.0.10 | https://1drv.ms/u/s!AvHxFSkLWegan_4CZNpdio2I-bLQzw?e=5gefng | This version is also available on App Store macOS M1 |
