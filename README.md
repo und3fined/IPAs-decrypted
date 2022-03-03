@@ -24,3 +24,4 @@
 | id959841449 | VN | Shopee | 2.84.10 | https://1drv.ms/u/s!AvHxFSkLWegaoIBdRp7X9-QfNSzWFQ?e=nK6icr | Vietnam version |
 | id616643813 | KR | 카카오페이지 | 6.23.0 | https://1drv.ms/u/s!AvHxFSkLWegaoIBgfyxHBuyndC4WbA?e=RBXWvR | |
 | id1537177988 | US | Starlink | 2.0.24 | https://1drv.ms/u/s!AvHxFSkLWegaoIBhLC5Ynb2hWzxX4A?e=O2X7Zy | SpaceX Starlink |
+| id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://1drv.ms/u/s!AvHxFSkLWegaoIBpp95zaG2DHfH-uA?e=qVtZIj | Can use in SEA region |
