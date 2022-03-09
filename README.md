@@ -21,7 +21,7 @@
 | id1299582178 | VN | Honkai Impact 3 | 5.5.0 | https://1drv.ms/u/s!AvHxFSkLWegaoIBSBaaroafm3WIxXw?e=iwwQNP | |
 | id1313126006 | VN | Girls' Frontline | 2.0800 | https://1drv.ms/u/s!AvHxFSkLWegaoIBTIhnF9TpZm7sd9A?e=UdRAAO | This version is also available on App Store macOS M1 |
 | id544007664 | N/A | Youtube | 17.08.2 | https://1drv.ms/u/s!AvHxFSkLWegaoIBeJn7QF0HdKXsS1g?e=CFBajw |  |
-| id959841449 | VN | Shopee | 2.84.10 | https://1drv.ms/u/s!AvHxFSkLWegaoIBdRp7X9-QfNSzWFQ?e=nK6icr | Vietnam version |
-| id616643813 | KR | 카카오페이지 | 6.23.0 | https://1drv.ms/u/s!AvHxFSkLWegaoIBgfyxHBuyndC4WbA?e=RBXWvR | |
-| id1537177988 | US | Starlink | 2.0.24 | https://1drv.ms/u/s!AvHxFSkLWegaoIBhLC5Ynb2hWzxX4A?e=O2X7Zy | SpaceX Starlink |
+| id959841449 | VN | Shopee | 2.84.10 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EUA-dFfg23lKqsuxqikPTnYBHB6iWnRYTI3V5XlhgK98Kw?e=UgnRIQ | Vietnam version |
+| id616643813 | KR | 카카오페이지 | 6.23.0 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EcObVKPFC1xOpdJtbBOlfQkB2b8o16i47BLYX_jV7_cVSw?e=fkkajx | |
+| id1537177988 | US | Starlink | 2.0.24 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EdIU2ymZ4EJCniioczYWtosBb-TRxkbEhRTDQtcPnhMMAQ?e=9us2WD | SpaceX Starlink |
 | id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://1drv.ms/u/s!AvHxFSkLWegaoIBpp95zaG2DHfH-uA?e=qVtZIj | Can use in SEA region |
