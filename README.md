@@ -24,4 +24,4 @@
 | id959841449 | VN | Shopee | 2.84.10 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EUA-dFfg23lKqsuxqikPTnYBHB6iWnRYTI3V5XlhgK98Kw?e=UgnRIQ | Vietnam version |
 | id616643813 | KR | 카카오페이지 | 6.23.0 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EcObVKPFC1xOpdJtbBOlfQkB2b8o16i47BLYX_jV7_cVSw?e=fkkajx | |
 | id1537177988 | US | Starlink | 2.0.24 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EdIU2ymZ4EJCniioczYWtosBb-TRxkbEhRTDQtcPnhMMAQ?e=9us2WD | SpaceX Starlink |
-| id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://und3fy-my.sharepoint.com/:u:/g/personal/1drive_und3fy_onmicrosoft_com/EaE6AfGlI1tBi6nM4w5TRdsByGw0eCpMca7ijvBsOG9iBw?e=XTsfIX | Can use in SEA region |
+| id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://1drv.und3fined.com/EaE6AfGlI1tBi6nM4w5TRdsByGw0eCpMca7ijvBsOG9iBw?e=XTsfIX | Can use in SEA region |
