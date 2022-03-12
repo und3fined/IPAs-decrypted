@@ -11,7 +11,7 @@
 | ID | Region | Name | Version | Link | Note |
 | --- | --- | --- | --- | --- | --- |
 | id1444980563 | KR | Lineage W | 1.1.28 | https://1drv.und3fined.com/EZZAxQZxEJlLoPLZv6GK5BABJPHH25B0PBvtQiLWGmblBQ?e=4gSrc7 | This Global version can use in other region. Eg: TW, TH, PH, SG... |
-| id1530334163 | KR | 언디셈버 - Undecember | 1.02.05 | https://1drv.und3fined.com/EcGcIGart5RGnaKuDlD2J-MBoGz070GtPG49cOP41Es09A?e=AZJyFZ | ENG/RU lang -> https://undecember.ml |
+| id1530334163 | KR | 언디셈버 - Undecember | 1.02.06 | https://1drv.und3fined.com/EX6pNHLb1rlCnIg3nZSMdAsBvSV21wdDjYDudZ1GPbZxpw?e=ldGOmt | ENG/RU lang -> https://undecember.ml |
 | id1537779048 | KR | 블레이드&소울2 - Blade & Soul 2 | 0.60.3 | https://1drv.und3fined.com/ERT5bBanWyVEiM0ddM_qnTMB75T4uL6LrhFNKY8OKQlcQg?e=BSfmWW |  |
 | id1581562784 | KR | 트라하 인피니티 - TRAHA INFINITY | 1.0.10 | https://1drv.und3fined.com/ETRISS8Kq6pBrqdZNt1A014BAIbM-m2Gx0Oxolg6HUP_EQ?e=NVHdQf | This version is also available on App Store macOS M1 |
 | id1523459287 | KR | 뮤오리진3 - MU Origin 3 | 1.0.2 | https://1drv.und3fined.com/EZQQYA6bZURFpIzgjU5g5nEBb7h-DqDJ_RbbRn5nvAV7TQ?e=exauPM |  |
