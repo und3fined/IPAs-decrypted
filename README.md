@@ -25,3 +25,4 @@
 | id616643813 | KR | 카카오페이지 | 6.23.0 | https://1drv.und3fined.com/EcObVKPFC1xOpdJtbBOlfQkB2b8o16i47BLYX_jV7_cVSw?e=fkkajx | |
 | id1537177988 | US | Starlink | 2.0.24 | https://1drv.und3fined.com/EdIU2ymZ4EJCniioczYWtosBb-TRxkbEhRTDQtcPnhMMAQ?e=9us2WD | SpaceX Starlink |
 | id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://1drv.und3fined.com/EaE6AfGlI1tBi6nM4w5TRdsByGw0eCpMca7ijvBsOG9iBw?e=XTsfIX | Can use in SEA region |
+| id579523206 | VN | Zalo | 22.03.01.r2 | https://1drv.und3fined.com/ERI5DXYEa8hGu3TMh183J4MBWgbq06GYsOH8dIIjEWFfNg?e=VUaRSR | Top 1 Vietnam OTT application |
