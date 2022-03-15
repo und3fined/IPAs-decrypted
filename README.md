@@ -21,7 +21,7 @@
 | id1299582178 | VN | Honkai Impact 3 | 5.5.0 | https://1drv.und3fined.com/EcdbJJ0sqmZBoRYw1E6u79YB1CmQa0_Axbm7BnCQvzZRZQ?e=4AVQYZ | |
 | id1313126006 | VN | Girls' Frontline | 2.0800 | https://1drv.und3fined.com/EawY9VSUMU5KgCvL-yXdhFYBmGp5mWnXg3l6MYROhNdmnw?e=dR3gx9 | This version is also available on App Store macOS M1 |
 | id544007664 | N/A | Youtube | 17.08.2 | https://1drv.und3fined.com/EZKsijFkg3JDgdQZRMwlcFMBQ3TQuUxkAwwcSk2HbCu8aw?e=5muhzj |  |
-| id959841449 | VN | Shopee | 2.84.10 | https://1drv.und3fined.com/EUA-dFfg23lKqsuxqikPTnYBHB6iWnRYTI3V5XlhgK98Kw?e=UgnRIQ | Vietnam version |
+| id959841449 | VN | Shopee | 2.84.22 | https://1drv.und3fined.com/EfJo5J3HoNlHgidFY6tdcpMB8-IUAFbxpkPkqcpZXyDSfA?e=Iq9WJ1 | Vietnam version |
 | id616643813 | KR | 카카오페이지 | 6.23.0 | https://1drv.und3fined.com/EcObVKPFC1xOpdJtbBOlfQkB2b8o16i47BLYX_jV7_cVSw?e=fkkajx | |
 | id1537177988 | US | Starlink | 2.0.24 | https://1drv.und3fined.com/EdIU2ymZ4EJCniioczYWtosBb-TRxkbEhRTDQtcPnhMMAQ?e=9us2WD | SpaceX Starlink |
 | id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://1drv.und3fined.com/EaE6AfGlI1tBi6nM4w5TRdsByGw0eCpMca7ijvBsOG9iBw?e=XTsfIX | Can use in SEA region |
@@ -29,3 +29,4 @@
 | id1366526331 | KR | 배틀그라운드 - PUBG Mobile | 1.8.0 | https://1drv.und3fined.com/ESj7P0InpdNLnE0j2SAAHuoBCTuiodghbFEDLEbvuoYAnw?e=0PJCvP| Provider by KRAFTON Inc  |
 | id1542727626 | KR | PUBG: NEW STATE | 0.9.25 | https://1drv.und3fined.com/ET0JAvAB4QBKlPEfQeguV-MB2DMbB85MkDvDh7kJa7a0uQ?e=d4inED | Provider by KRAFTON Inc |
 | id1286705196 | KR | 붕괴3rd | 5.5.0 | https://1drv.und3fined.com/EVlZSWz247FCpLYN5lX2IHsBxLJ6l3vQl5bos89ovoGr1A?e=wzzqKn | Honkai Impact 3rd |
+| id1169440095 | KR | 라프텔 - 애니 감상 & 애니메이션 추천 | 3.24.0 | https://1drv.und3fined.com/EQz7KSqpc_xLu-38_qzTD7IBeuNXnLrYXE_cNBtbQqo1lQ?e=keyWlf | |
