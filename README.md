@@ -11,7 +11,7 @@
 | ID | Region | Name | Version | Link | Note |
 | --- | --- | --- | --- | --- | --- |
 | id1444980563 | KR | Lineage W | 1.1.38 | https://1drv.und3fined.com/EQnC2OiwyS5Mps5nh3Or_5wBVgnCrFXbZS7fGYj2RlVtKw?e=ucc3eF | This Global version can use in other region. Eg: TW, TH, PH, SG... |
-| id1530334163 | KR | 언디셈버 - Undecember | 1.02.06 | https://1drv.und3fined.com/EX6pNHLb1rlCnIg3nZSMdAsBvSV21wdDjYDudZ1GPbZxpw?e=ldGOmt | ENG/RU lang -> https://undecember.ml |
+| id1530334163 | KR | 언디셈버 - Undecember | 1.03.10 | https://1drv.und3fined.com/EedlX721BmhJvSsATNHJ26oBLMzxV_iSGPsqNb0kAa7gGA?e=DcWy29 | ENG/RU lang -> https://undecember.ml |
 | id1537779048 | KR | 블레이드&소울2 - Blade & Soul 2 | 0.60.3 | https://1drv.und3fined.com/ERT5bBanWyVEiM0ddM_qnTMB75T4uL6LrhFNKY8OKQlcQg?e=BSfmWW |  |
 | id1581562784 | KR | 트라하 인피니티 - TRAHA INFINITY | 1.0.10 | https://1drv.und3fined.com/ETRISS8Kq6pBrqdZNt1A014BAIbM-m2Gx0Oxolg6HUP_EQ?e=NVHdQf | This version is also available on App Store macOS M1 |
 | id1523459287 | KR | 뮤오리진3 - MU Origin 3 | 1.0.2 | https://1drv.und3fined.com/EZQQYA6bZURFpIzgjU5g5nEBb7h-DqDJ_RbbRn5nvAV7TQ?e=exauPM |  |
@@ -26,8 +26,8 @@
 | id1537177988 | US | Starlink | 2.0.24 | https://1drv.und3fined.com/EdIU2ymZ4EJCniioczYWtosBb-TRxkbEhRTDQtcPnhMMAQ?e=9us2WD | SpaceX Starlink |
 | id1478207260 | TH | Tom and Jerry Chase  | 4.8.50 | https://1drv.und3fined.com/EaE6AfGlI1tBi6nM4w5TRdsByGw0eCpMca7ijvBsOG9iBw?e=XTsfIX | Can use in SEA region |
 | id579523206 | VN | Zalo | 22.03.01.r2 | https://1drv.und3fined.com/ERI5DXYEa8hGu3TMh183J4MBWgbq06GYsOH8dIIjEWFfNg?e=VUaRSR | Top 1 Vietnam OTT application |
-| id1366526331 | KR | 배틀그라운드 - PUBG Mobile | 1.8.0 | https://1drv.und3fined.com/ESj7P0InpdNLnE0j2SAAHuoBCTuiodghbFEDLEbvuoYAnw?e=0PJCvP| Provider by KRAFTON Inc  |
-| id1542727626 | KR | PUBG: NEW STATE | 0.9.25 | https://1drv.und3fined.com/ET0JAvAB4QBKlPEfQeguV-MB2DMbB85MkDvDh7kJa7a0uQ?e=d4inED | Provider by KRAFTON Inc |
+| id1366526331 | KR | 배틀그라운드 - PUBG Mobile | 1.9.0 | https://1drv.und3fined.com/EZjUulAthYpIrL_eOKSP85oBl72iIqgvL_fwy7GrQ9VEyw?e=BW8wq1 | Provider by KRAFTON Inc  |
+| id1542727626 | KR | PUBG: NEW STATE | 0.9.26 | https://1drv.und3fined.com/EXwmITleyRhAmP-qXI7biHEBloDot3y8rhjIarvAgBaezQ?e=VFxD5o | Provider by KRAFTON Inc |
 | id1286705196 | KR | 붕괴3rd | 5.5.0 | https://1drv.und3fined.com/EVlZSWz247FCpLYN5lX2IHsBxLJ6l3vQl5bos89ovoGr1A?e=wzzqKn | Honkai Impact 3rd |
 | id1169440095 | KR | 라프텔 - 애니 감상 & 애니메이션 추천 | 3.24.0 | https://1drv.und3fined.com/EQz7KSqpc_xLu-38_qzTD7IBeuNXnLrYXE_cNBtbQqo1lQ?e=keyWlf | |
 | id1579481705 | US | Dark Nemesis: Infinite Quest | 1.0.9 | https://1drv.und3fined.com/EeNfjtJA_dpMoZPg8wprsu4BkFsaSoc8WZMjO9iIFSRlLg?e=0XztRe | |
