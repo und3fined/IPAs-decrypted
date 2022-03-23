@@ -4,6 +4,8 @@
 ### REPO will never received update
 ### Move to https://ipa.decrypt.day
 
+===
+
 ### How to find your IPA?
 
 1. Copy link to App Store. Eg: `https://apps.apple.com/ru/app/lineage2m/id1575437656`
